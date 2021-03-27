@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+body{
+    
+    background-color:rgb(39, 45, 51);
+    
+}
+.menu{
+    margin-left: 50px;
+    color: white;
+    margin-top: 50px;
+    float: left;
+
+}
+.inicio:hover{
+    border-radius: 15px;
+    background: gray;
+    border: 5px solid gray;
+    margin-right: 1420px;
+}
+.nosotros:hover{
+    border-radius: 15px;
+    background: gray;
+    border: 5px solid gray;
+    margin-right: 1400px; 
+}
+.caja1{
+    display: block;
+    background-color: turquoise;
+    height: 179px;
+    width: 1175px;
+    margin-left: 150px;
+
+}
+.caja2{
+    display: block;
+    background-color: yellow;
+    height: 179px;
+    width: 1175px;
+    padding-top: 1px;
+    margin-left: 150px;
+}
+.caja3{
+    display: block;
+    background-color: orange;
+    height: 179px;
+    width: 1175px;
+    padding-top: 1px;
+    margin-left: 150px;
+    
+}
+.caja4{
+    display: block;
+    background-color: red;
+    height: 180px;
+    width: 1175px;
+    padding-top: 1px;
+    margin-left: 150px;
+    
+}
+#cajas{
+    margin-left: 120px;
+    color: white;
+    
+}
+p{
+    padding-top: 15px;
+    padding-left: 10px;
+}
+h2{
+    padding-left: 10px;
+}
+
+
+
+
+
+
